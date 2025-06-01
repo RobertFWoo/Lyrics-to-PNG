@@ -11,8 +11,11 @@ Each PNG file will be 1920x1080 pixels in size, and the text will be centered in
 The title image will be saved as "title.png" and the rest of the images will be saved as "01.png", "02.png", etc.
 The text will have a base color of ##F9EFD5 and a shadow color of ##000000, with a shadow offset of 5 pixels in both the x and y directions and a shadow blur of 10 pixels and opacity of 0.5.
 The text will be rendered using the "Georgia" font at a size of 150 pixels.
+The text on the image should be double-spaced, giving space between lines.
+Increase the kerning between letters by 5.
+The file, georgiab.ttf, is the font file in the program's folder.
 The text should be in bold type.
-It will have a text stroke of 2 pixels in the color ##000000, and the text will be rendered with a shadow effect.
+The text will be rendered with a shadow effect.
 A title image will be created with the first line of the lyrics, and the rest of the lyrics will be rendered in separate images.
 The text will have a slight bevel effect applied to it, and the images will be saved in the output folder.
 # Requirements
